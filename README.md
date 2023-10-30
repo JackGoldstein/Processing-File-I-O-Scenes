@@ -3,6 +3,8 @@
 
  How to use scene viewer: 
 
+To open the program download the zip file and open the "Project 5" file. 
+
 Movement and camera: To move and/or use the camera you must first hit right click. Whilst holding a right click you may then use ASDW keys for movement and drag the mouse to change the camera position. All of this must be done while holding the right click. 
 
 Change Scene: To change which scene you are viewing simply click the change scene button in the top left corner of the window. 
